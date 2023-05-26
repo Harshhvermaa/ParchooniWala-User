@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "906825621823",
+    "project_id": "parchooniwalaa",
+    "storage_bucket": "parchooniwalaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906825621823:android:3cdb2c7cd85e5013bb338a",
+        "android_client_info": {
+          "package_name": "com.example.parchooni_waala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906825621823-pqp06l9eirnri7nekohd494se3qc7ksj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parchooni_waala",
+            "certificate_hash": "e9ec6568b6eae4bebbaaf75b10e62df690d4f3c5"
+          }
+        },
+        {
+          "client_id": "906825621823-tbtleuc5cedpurfvdi22kfi9ivtm2pk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqrv3_BuXWx3gYMCVGOuUchTJYLmVZoxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906825621823-tbtleuc5cedpurfvdi22kfi9ivtm2pk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906825621823:android:8273439c71542517bb338a",
+        "android_client_info": {
+          "package_name": "com.example.parchooniwala_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906825621823-tbtleuc5cedpurfvdi22kfi9ivtm2pk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqrv3_BuXWx3gYMCVGOuUchTJYLmVZoxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906825621823-tbtleuc5cedpurfvdi22kfi9ivtm2pk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
